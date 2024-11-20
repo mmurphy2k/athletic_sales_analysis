@@ -16,7 +16,7 @@ This notebook will first analyze sales data to gain insights into which cities i
 
 ## 2. **File Structure**
 
-![Screenshot of the GitHub repository for this application.](https://github.com/user-attachments/assets/6ccb74c1-b89e-4dc2-be74-781c2fef47d4)
+![Screenshot 2024-11-19 at 6 25 55 PM](https://github.com/user-attachments/assets/83360cb1-9dd1-4b65-88a7-c6a8ecea49da)
 
 
 ## 3. **How to run the notebook**
