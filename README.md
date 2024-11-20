@@ -11,10 +11,7 @@
 
 ## 1. **Program Description**
 
-Analyze sales data over two years  to gain insights across the U.S.
-This challenge focuses on data analysis with Python's Pandas library. As a crucial component in various fields, such as data science, machine learning, and business intelligence, practical data analysis involves examining, cleaning, processing, and extracting useful information from large datasets. This assignment provides a hands-on opportunity to develop these skills.
-
-In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. The mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career.
+This notebook will first analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Next, it determines which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, it determine which day and week had the highest sales for women's athletic footwear.
 
 
 ## 2. **File Structure**
@@ -24,7 +21,7 @@ In this challenge, we'll dive into a dataset from a fictional e-commerce company
 
 ## 3. **How to run the notebook**
 
-Within VS Code, select the **"wholesale_data_analysis_starter_code.ipynb"** file and execute each of the code cells within the notebook from top to bottom in order.
+Within VS Code, select the **"athletic_sales_analysis.ipynb"** file and execute each of the code cells within the notebook from top to bottom in order.
 
 
 ## 4. **README.md**
@@ -36,15 +33,21 @@ This file.
 
 This notebook contins the various code cells that will cover the following:
 
-1. Exploring the data - Import the data and use Pandas to learn more about the dataset.
-2. Transforming the data - Transform the data for better and easier analysis.
-3. Confirming your work - Verify the  results. 
-4. Summarize and Analyze - Using the new columns answer a variety of questions about the findings.
+1. Combine and Clean the Data - Import the data and use Pandas to learn more about the dataset.
+2. Determine which Region Sold the Most Products - Utilize both groupby and pivot tables to show results.
+3. Determine which Region had the Most Sales - Utilize both groupby and pivot tables to show results.
+4. Determine which Retailer had the Most Sales - Utilize both groupby and pivot tables to show results.
+5. Determine which Retailer Sold the Most Women's Athletic Footwear - Utilize both groupby and pivot tables to show results.
+6. Determine the Day with the Most Women's Athletic Footwear Sales - Utilize pivot tables and resample the data to show results.
+7. Determine the Week with the Most Women's Athletic Footwear Sales - Utilize pivot tables and resample the data to show results.
 
 
 ## 6. **Resources**
 
-This folder contains two files, athletic_sales_2020.csv and athletic_sales_2021.csv.
+This folder contains two source files
+
+1. athletic_sales_2020.csv
+2. athletic_sales_2021.csv.
 
 ---------------------------------------------
 
